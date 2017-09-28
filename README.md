@@ -12,14 +12,22 @@ Features
 Typical inventory-management. Add stuff to stock, issue them and the software keeps track of numbers, costs, etc.
 
 1.Products Management
+
 2.Transaction Management
+
 3.Viewing and Printing of Transactions Within Specific Dates
+
 4.Barcode Scanning of Products for product and transaction management
+
 5.Custom Analytics
-5.User Management
-6.Monthly/Yearly Earnings Overview
+
+6.User Management
+
+8.Monthly/Yearly Earnings Overview
+
 7.VAT
-8.Discount
+
+9.Discount
 
 So you know whom you buy certain things with and where they're located.
 
